@@ -1,6 +1,4 @@
 # Deep Learning
-# HW 1 - Part 2
-# Ali Pazouki - 40203334
 # 3 layer AE + 2 layer MLP , Classification
 
 import numpy as np
